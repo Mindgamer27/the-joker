@@ -1,0 +1,32 @@
+html{
+    background-color: black;
+  }
+
+  img {
+    height: 300px;
+    width: 400px;
+    border: 3px solid rgba(45, 0, 97, 0.842);
+  }
+  
+  .image1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  p {
+    font-family: 'Ysabeau SC', sans-serif;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+  }
+
+  h1 {
+    font-family: 'Ysabeau SC', sans-serif;
+    font-size: 40px;
+    color: white;
+    border: 1rem solid rgba(45, 0, 97, 0.842);
+    border-left: 0rem; border-right: 0rem;
+    text-align: center;
+    margin-bottom: 10px;
+  }
